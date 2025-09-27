@@ -1,0 +1,5 @@
+{
+  "name": "Nifty 50 Trading Assistant",
+  "description": "An AI-powered assistant to analyze the Indian Nifty 50 options market based on user-provided parameters and real-time data from Google Search.",
+  "requestFramePermissions": []
+}
