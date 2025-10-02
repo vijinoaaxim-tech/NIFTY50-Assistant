@@ -41,6 +41,7 @@ const App: React.FC = () => {
           <p className="text-gray-400">
             AI-powered weekly options strategy analysis using real-time data.
           </p>
+          <a className="btn btn-sm btn-danger" href="https://chartnifty.netlify.app/">Chart Analyze</a>
         </header>
 
         <main>
